@@ -11,6 +11,17 @@ Registed custom slash command
 4. Copy URL and add it to created server
 5. Make sure you have Node.js and npm installed on your machine.
 
+### Installation
+
+###### Clone the repository:
+
+```bash
+git clone https://github.com/snehalk19/discord-bot.git
+cd discord-bot
+```
+
+###### Install dependencies:
+
 ```bash
 npm install
 ```
@@ -18,5 +29,5 @@ npm install
 ###### Run the app:
 
 ```bash
-npm run start
+npm start
 ```
