@@ -1,4 +1,4 @@
-Discord bot
+### Discord bot
 
 Used discord.js module from Node.js to interact with Discord API
 Registed custom slash command
